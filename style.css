@@ -1,0 +1,51 @@
+.bai1 {
+    
+    text-align: center;
+}
+.box {
+    display: inline;
+    padding: 5px;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.heading {
+    width: 100%;
+}
+.sub-heading {
+    color: aqua;
+}
+.button-bai1 {
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+}
+.bai2 {
+    text-align: center;
+}
+.button-bai2 {
+    padding: 5px;
+    background-color: red;
+    color: aliceblue;
+}
+.bai3 {
+    text-align: center;
+}
+.span-bai3 {
+    color: red;
+}
+.button-bai4 {
+    background-color: black;
+    color: aliceblue;
+    display: block;
+    margin-top: 10px;
+}
+
+
+
+.button-bai5 {
+    padding: 5px;
+    background-color: cadetblue;
+    color: aliceblue;
+    display: block;
+    margin-top: 10px;
+}
